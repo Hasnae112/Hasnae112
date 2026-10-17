@@ -25,9 +25,11 @@ Developed a chatbot to interact with simulated IoT devices, with a deployment wo
 *Tech:* Python, Microsoft Bot Framework, aiohttp, Azure, GitHub Actions 
 
 [View Repository →](https://github.com/Hasnae112/mon-chatbot-iot)
+
 **👁️ ATTENDIFY — Face Recognition Attendance System**  
 Created a desktop attendance management application based on face recognition.  
 *Tech:* Python, OpenCV, dlib, Tkinter, MySQL  
+
 [View Repository →](https://github.com/Hasnae112/ATTENDIFY)
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hasnae112&show_icons=true&hide_border=true&theme=transparent)
