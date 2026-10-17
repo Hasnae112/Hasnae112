@@ -14,13 +14,16 @@ I'm an engineering student at **ENSA Al Hoceima**, passionate about building int
 Compared Seq2Seq with Attention, fine-tuned FLAN-T5, and RAG using hybrid retrieval and reranking.  
 *Tech:* PyTorch, Hugging Face, LoRA, FAISS, BM25  
 [View Repository →](https://github.com/Hasnae112/projetDeepLearning)
+
 **⚽ AFCON 2025 Winner Prediction**  
 Built an ML pipeline using 8,297 cleaned matches, 20 engineered features, Random Forest, and 1,000 Monte Carlo simulations.  
 *Tech:* Python, Pandas, Scikit-learn, Machine Learning  
 [View Repository →](https://github.com/Hasnae112/afcon-winner-prediction-ml)
+
 **🌐 Conversational IoT Assistant**  
 Developed a chatbot to interact with simulated IoT devices, with a deployment workflow.  
-*Tech:* Python, Microsoft Bot Framework, aiohttp, Azure, GitHub Actions  
+*Tech:* Python, Microsoft Bot Framework, aiohttp, Azure, GitHub Actions 
+
 [View Repository →](https://github.com/Hasnae112/mon-chatbot-iot)
 **👁️ ATTENDIFY — Face Recognition Attendance System**  
 Created a desktop attendance management application based on face recognition.  
