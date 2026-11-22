@@ -1,39 +1,35 @@
 # Hi, I'm Hasnae Elballaoui 👋
-### AI & Digital Transformation Engineering Student | Machine Learning • NLP • Generative AI
-I'm an engineering student at **ENSA Al Hoceima**, passionate about building intelligent systems using Machine Learning, Deep Learning, NLP, LLMs, and RAG. I enjoy transforming data and research into practical AI solutions.
-- 🎓 **Education:** AI & Digital Transformation Engineering — ENSA Al Hoceima
-- 🤖 **Interests:** Machine Learning, Deep Learning, NLP, LLMs, RAG
-- 🔬 **Exploring:** Semantic search, hybrid retrieval, model evaluation, and AI pipelines
-- 💼 **Seeking:** PFE opportunities in AI and Machine Learning
-### 🛠️ Tech Stack
-**Languages & Data:** Python, Java, SQL, Pandas, NumPy  
-**AI/ML:** PyTorch, Scikit-learn, Hugging Face, FAISS, NLP, RAG  
-**Tools:** Git, GitHub, Docker, Apache Airflow, PostgreSQL
-### 🚀 Featured Projects
-**🤖 Deep Learning Chatbot for Software Engineering**  
-Compared Seq2Seq with Attention, fine-tuned FLAN-T5, and RAG using hybrid retrieval and reranking.  
-*Tech:* PyTorch, Hugging Face, LoRA, FAISS, BM25  
-[View Repository →](https://github.com/Hasnae112/projetDeepLearning)
 
-**⚽ AFCON 2025 Winner Prediction**  
-Built an ML pipeline using 8,297 cleaned matches, 20 engineered features, Random Forest, and 1,000 Monte Carlo simulations.  
-*Tech:* Python, Pandas, Scikit-learn, Machine Learning  
-[View Repository →](https://github.com/Hasnae112/afcon-winner-prediction-ml)
+**AI Engineering student (ENSA Al Hoceima) · NLP · LLMs & RAG · Machine Learning · Data Engineering**
 
-**🌐 Conversational IoT Assistant**  
-Developed a chatbot to interact with simulated IoT devices, with a deployment workflow.  
-*Tech:* Python, Microsoft Bot Framework, aiohttp, Azure, GitHub Actions 
+I build end-to-end AI projects: from data pipelines and model training to evaluation and deployment. I'm looking for a **PFE internship in AI / Machine Learning**.
 
-[View Repository →](https://github.com/Hasnae112/mon-chatbot-iot)
+[LinkedIn](https://www.linkedin.com/in/hasnae-elballaoui-312209256) · [Portfolio](https://hasnaeelballaoui.vercel.app)
 
-**👁️ ATTENDIFY — Face Recognition Attendance System**  
-Created a desktop attendance management application based on face recognition.  
-*Tech:* Python, OpenCV, dlib, Tkinter, MySQL  
+---
 
-[View Repository →](https://github.com/Hasnae112/ATTENDIFY)
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hasnae112&show_icons=true&hide_border=true&theme=transparent)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hasnae112&layout=compact&hide_border=true&theme=transparent)
-### 🤝 Connect with Me
-[GitHub](https://github.com/Hasnae112) · [LinkedIn](www.linkedin.com/in/hasnae-elballaoui-312209256)
-*Building intelligent solutions through curiosity, experimentation, and continuous learning.*
+## Featured projects
+
+| Project | What it demonstrates | Stack |
+|---|---|---|
+| **[Software Engineering Chatbot: Seq2Seq vs Fine-tuning vs RAG](https://github.com/Hasnae112/projetDeepLearning)** | Compared three chatbot approaches on one domain. The hybrid RAG pipeline (FAISS + BM25 + CrossEncoder reranking + LoRA-tuned FLAN-T5) reached ROUGE-L 0.67 and semantic similarity 0.94 on 81 validation examples. | PyTorch, Hugging Face, PEFT/LoRA, FAISS, Gradio |
+| **[Mini-PaLM: a decoder-only Transformer from scratch](https://github.com/Hasnae112/presentationPalmLLamaCodex)** | Small PaLM-style language model (RMSNorm, SwiGLU, attention) with a training pipeline and a Streamlit app showing loss curves, token probabilities and inference speed. | PyTorch, Streamlit |
+| **[Job Intelligent: ETL & Data Warehouse](https://github.com/Hasnae112/job-intelligent)** | Data/AI job postings from 3 sources (Kaggle, France Travail API, Rekrute scraping), orchestrated with Airflow into a PostgreSQL star schema, with an idempotent load. | Airflow, Docker, PostgreSQL, pandas |
+| **[AFCON 2025 Winner Prediction](https://github.com/Hasnae112/afcon-winner-prediction-ml)** | 5 datasets merged into 8,297 matches, 20 engineered features, a chronological split and Monte Carlo tournament simulation. Honest evaluation: 52.6% test accuracy on 3 classes. | scikit-learn, pandas |
+| **[ATTENDIFY: face-recognition attendance](https://github.com/Hasnae112/ATTENDIFY)** | Desktop app with face detection and recognition (LBPH, Haar Cascade, dlib), MySQL storage, CSV reports and a built-in assistant. | OpenCV, dlib, Tkinter, MySQL |
+| **[Conversational IoT assistant](https://github.com/Hasnae112/mon-chatbot-iot)** | Bot Framework chatbot controlling simulated devices, deployed to Azure Web App with a GitHub Actions CI/CD pipeline. | Python, aiohttp, Azure |
+
+---
+
+## Tech stack
+
+**Languages:** Python · Java · SQL
+**AI / ML:** PyTorch · TensorFlow/Keras · Hugging Face Transformers · PEFT (LoRA) · scikit-learn · FAISS · BM25 · OpenCV
+**Data:** pandas · NumPy · Apache Airflow · PostgreSQL · MySQL
+**Tools:** Docker · Git/GitHub · GitHub Actions · Azure · Streamlit · Gradio
+
+---
+
+## Currently exploring
+
+Semantic search and hybrid retrieval, model evaluation, and building reliable AI pipelines.
